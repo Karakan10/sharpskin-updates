@@ -1,0 +1,10 @@
+{
+  "versions": {
+    "1.21.1": {
+      "version": "1.0.7+mc1.21.1",
+      "file": "SharpSkin-1.0.7+mc1.21.1.jar",
+      "sha256": "df4fd341cb51ab6fec317f127b54b96dddb9b99856039d19b7aa07b80821c4ef",
+      "sig": "iRh1AnlnnAl0UwIIMMrAhiJsbeyah/TF39PczEP+CuD8zQpK8s1NkzFVB394mekDO69qYm3DcMCZ3cUrpl3NAw=="
+    }
+  }
+}
