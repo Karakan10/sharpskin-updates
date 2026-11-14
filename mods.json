@@ -1,10 +1,22 @@
 {
   "versions": {
     "1.21.1": {
-      "version": "1.0.12+mc1.21.1",
-      "file": "SharpSkin-1.0.12+mc1.21.1.jar",
-      "sha256": "b7f8343cc91d91eb868356cd0a61e59f474da9c1a44cfbb28aa413338a6940df",
-      "sig": "32c6Yqkb+MRQ+OJOXZh6UvmkR5GGTgIiBjOGqo2OQSb/UQidEFjjWDW0r0YYln8eIKPTwomPY1VAXCHGbg11Cw=="
+      "version": "1.0.13+mc1.21.1",
+      "file": "SharpSkin-1.0.13+mc1.21.1.jar",
+      "sha256": "863c2aa18de0673dc16fce4583a797a9610c769122bbec0af439a87c0e231807",
+      "sig": "Bql/1XDM39qAUHv6Rg+PWP2pLoqdyW8Cw0d3Nmj5l3E7PCOIVhb2DhqceyWMxGZTaOwzytf5rEWiTXZKzLPCBQ=="
+    },
+    "1.21.4": {
+      "version": "1.0.13+mc1.21.4",
+      "file": "SharpSkin-1.0.13+mc1.21.4.jar",
+      "sha256": "d8ecde4ce09c267075512d09ed568eed6d43f5311d8c31975c39611e28e1dd30",
+      "sig": "t2RbpFgbAaWcFlzD2ZIxLPeahaThQkES+08b121AoTYmddray50VUvnrlBRSzffLho01hntdrOzumgGq6jpgCQ=="
+    },
+    "1.21.11": {
+      "version": "1.0.13+mc1.21.11",
+      "file": "SharpSkin-1.0.13+mc1.21.11.jar",
+      "sha256": "1823f6a61491fff9caab09a1ea9c3c7790f5855bb6d017b81bdbe87652c28bcf",
+      "sig": "Gcor6yT1rw8ZlZuML/YyvuNCe7GTl226LUd6zsX0grbnH3VY7iyN/f1ROQ+k2LZeTTZoPHpqLVDxuAyvAXgQBw=="
     }
   }
 }
